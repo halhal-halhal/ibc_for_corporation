@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <title>sample</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri(); ?>/css/style.css" media="screen">
+  <link href="<?php echo get_stylesheet_directory_uri(); ?>/css/bootstrap.min.css" rel="stylesheet">
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+  <!-- header -->
+  <header>
+    <div class="navbar navbar-default">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-responsive-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="javascript:void(0)">ロゴ？</a>
+        </div>
+        <div class="navbar-collapse collapse navbar-responsive-collapse">
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="javascript:void(0)">研修したい</a></li>
+            <li><a href="javascript:void(0)">採用したい</a></li>
+            <li><a href="javascript:void(0)">仕事依頼したい</a></li>
+            <li><a href="javascript:void(0)">助成金について</a></li>
+            <li><a href="javascript:void(0)">お問い合わせ</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- /header -->
+  <!-- content -->
+  <div id="content">
+    <div id="top-image">
+      <img src="http://placehold.jp/1000x470.png" alt="" />
+    </div>
+    <div id="page-menu">
+      <div class="pege-menu-element-1">
+        <h2>固定ページタイトル</h2>
+        <div class="row">
+          <div class="col-md-3 col-sm-5 col-xs-12">
+            <img src="http://placehold.jp/180x180.png" align="left"/>
+          </div>
+          <div class="col-md-9 col-sm-7 col-xs-12">
+            <div class="page-info">
+              ダミーテキストダミーテキストダミーテキストダミーテキストダミーテキスト
+              ダミーテキストダミーテキストダミーテキストダミーテキストダミーテキスト
+              ダミーテキストダミーテキストダミーテキストダミーテキストダミーテキスト
+              ダミーテキストダミーテキストダミーテキストダミーテキストダミーテキスト
+              ダミーテキストダミーテキストダミーテキストダミーテキストダミーテキスト
+            </div>
+            <a href="#">詳しくはこちら</a>
+          </div>
+        </div>
+      </div>
+      <div class="pege-menu-element-2">
+        <h2>固定ページタイトル</h2>
+        <div class="row">
+          <div class="col-md-3 col-sm-5 col-xs-12">
+            <img src="http://placehold.jp/180x180.png" align="left"/>
+          </div>
+          <div class="col-md-9 col-sm-7 col-xs-12">
+            <div class="page-info">
+              ダミーテキストダミーテキストダミーテキストダミーテキストダミーテキスト
+              ダミーテキストダミーテキストダミーテキストダミーテキストダミーテキスト
+              ダミーテキストダミーテキストダミーテキストダミーテキストダミーテキスト
+              ダミーテキストダミーテキストダミーテキストダミーテキストダミーテキスト
+              ダミーテキストダミーテキストダミーテキストダミーテキストダミーテキスト
+            </div>
+            <a href="#">詳しくはこちら</a>
+          </div>
+        </div>
+      </div>
+      <div class="pege-menu-element-1">
+        <h2>固定ページタイトル</h2>
+        <div class="row">
+          <div class="col-md-3 col-sm-5 col-xs-12">
+            <img src="http://placehold.jp/180x180.png" align="left"/>
+          </div>
+          <div class="col-md-9 col-sm-7 col-xs-12">
+            <div class="page-info">
+              ダミーテキストダミーテキストダミーテキストダミーテキストダミーテキスト
+              ダミーテキストダミーテキストダミーテキストダミーテキストダミーテキスト
+              ダミーテキストダミーテキストダミーテキストダミーテキストダミーテキスト
+              ダミーテキストダミーテキストダミーテキストダミーテキストダミーテキスト
+              ダミーテキストダミーテキストダミーテキストダミーテキストダミーテキスト
+            </div>
+            <a href="#">詳しくはこちら</a>
+          </div>
+        </div>
+      </div>
+      <div class="pege-menu-element-2">
+        <h2>固定ページタイトル</h2>
+        <div class="row">
+          <div class="col-md-3 col-sm-5 col-xs-12">
+            <img src="http://placehold.jp/180x180.png" align="left"/>
+          </div>
+          <div class="col-md-9 col-sm-7 col-xs-12">
+            <div class="page-info">
+              ダミーテキストダミーテキストダミーテキストダミーテキストダミーテキスト
+              ダミーテキストダミーテキストダミーテキストダミーテキストダミーテキスト
+              ダミーテキストダミーテキストダミーテキストダミーテキストダミーテキスト
+              ダミーテキストダミーテキストダミーテキストダミーテキストダミーテキスト
+              ダミーテキストダミーテキストダミーテキストダミーテキストダミーテキスト
+            </div>
+            <a href="#">詳しくはこちら</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr>
+  <div id="news">
+    <h2>NEWS</h2>
+    <ul>
+      <li>
+        <div class="row">
+          <div class="col-md-2 col-sm-3 col-xs-12"><div class="icon-training">研修事例</div></div>
+          <div class="col-md-10 col-sm-9 col-xs-12 news-title"><a href="#">タイトルタイトルタイトル</a></div>
+        </div>
+      </li>
+      <li>
+        <div class="row">
+          <div class="col-md-2 col-sm-3 col-xs-12"><div class="icon-training">研修事例</div></div>
+          <div class="col-md-10 col-sm-9 col-xs-12 news-title"><a href="#">タイトルタイトルタイトル</a></div>
+        </div>
+      </li>
+      <li>
+        <div class="row">
+          <div class="col-md-2 col-sm-3 col-xs-12"><div class="icon-blog">ブログ</div></div>
+          <div class="col-md-10 col-sm-9 col-xs-12 news-title"><a href="#">タイトルタイトルタイトル</a></div>
+        </div>
+      </li>
+      <li>
+        <div class="row">
+          <div class="col-md-2 col-sm-3 col-xs-12"><div class="icon-training">研修事例</div></div>
+          <div class="col-md-10 col-sm-9 col-xs-12 news-title"><a href="#">タイトルタイトルタイトル</a></div>
+        </div>
+      </li>
+    </ul>
+  </div>
+  <div id="contact">
+    <h2>プログラミング研修に関するお問い合わせ</h2>
+    <p>
+      プログラミング研修についてのお問い合わせは下記ページからお願い致します。<br>
+      お気軽にご相談ください。
+    </p>
+    <a href="#">詳しくはこちら</a>
+  </div>
+  <!-- /content -->
+  <!-- footer -->
+  <div id="footer">
+
+  </div>
+  <!-- /footer -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+  <script src="<?php bloginfo('template_url' ); ?>/js/bootstrap.min.js"></script>
+</body>
+</html>
